@@ -1,7 +1,7 @@
 ## Tasks
-  1. [ ] Complete your .gitignore file.
-  2. [ ] Flesh out your basic html page.
-  3. [ ] Find 5 appropriately licensed images with a common theme (e.g. https://pixabay.com/) and save them to your images directory.
+  1. [x] Complete your .gitignore file.
+  2. [x] Flesh out your basic html page.
+  3. [x] Find 5 appropriately licensed images with a common theme (e.g. https://pixabay.com/) and save them to your images directory.
   3. [ ] Create a subsection for each of your photos.  Each subsection should contain the following:
       - a short descriptive heading
       - a descriptive paragraph that includes a link to a related internet page
