@@ -14,7 +14,7 @@
 ## Criteria
   - appropriate git commits are made –at an absolute minimum– including:
     - [x] the empty repo
-    - [ ] the final repo
+    - [x] the final repo
   - the html page must include:
     - [x] at least two heading levels
     - [x] a paragraph
