@@ -2,7 +2,7 @@
   1. [x] Complete your .gitignore file.
   2. [x] Flesh out your basic html page.
   3. [x] Find 5 appropriately licensed images with a common theme (e.g. https://pixabay.com/) and save them to your images directory.
-  3. [ ] Create a subsection for each of your photos.  Each subsection should contain the following:
+  3. [x] Create a subsection for each of your photos.  Each subsection should contain the following:
       - a short descriptive heading
       - a descriptive paragraph that includes a link to a related internet page
       - the image
@@ -13,7 +13,7 @@
 
 ## Criteria
   - appropriate git commits are made –at an absolute minimum– including:
-    - [ ] the empty repo
+    - [x] the empty repo
     - [ ] the final repo
   - the html page must include:
     - [ ] at least two heading levels
