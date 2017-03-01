@@ -14,12 +14,14 @@ h3 {
   border: 1px solid #000;
   padding: 5px;
   margin-left: auto;
+  /*border-radius: 10px;*/
 }
 
 span.dream {
   font-size: 2em;
 }
 
+/*
 .h3-left {
   border-radius: 15px 0px 15px 0px;
 }
@@ -31,6 +33,7 @@ span.dream {
 .h3-right {
   border-radius: 0px 15px 0px 15px;
 }
+*/
 
 .wrapper {
   margin: 50px 60px 20px 60px;
@@ -60,9 +63,10 @@ span.dream {
   margin: 15px;
   height: 500px;
   background-color: #fff;
-  border-radius: 10px;
+  /*border-radius: 25px;*/
 }
 
+/*
 .entry-left {
   border-radius: 25px 0px 25px 0px;
 }
@@ -74,6 +78,7 @@ span.dream {
 .entry-right {
   border-radius: 0px 25px 0px 25px;
 }
+*/
 
 .frame {
   background-color: #fff;
