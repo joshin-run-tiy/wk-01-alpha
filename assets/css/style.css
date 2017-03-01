@@ -16,6 +16,10 @@ h3 {
   margin-left: auto;
 }
 
+span.dream {
+  font-size: 2em;
+}
+
 .h3-left {
   border-radius: 15px 0px 15px 0px;
 }
@@ -88,4 +92,21 @@ img {
 ul {
   font-style: italic;
   text-decoration: inherit;
+}
+
+a:hover {
+  color: olive;
+  font-size: 20px;
+}
+
+a:active {
+  border: 1px dashed blue;
+}
+
+a:focus {
+  background-color: yellow;
+}
+
+a:visited {
+  font-color: purple;
 }
