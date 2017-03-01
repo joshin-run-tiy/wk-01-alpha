@@ -15,7 +15,7 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [x] margin
   - [x] padding
   - [x] border
-  - [ ] border-radius
+  - [x] border-radius
   - [x] background-color
   - [ ] background-image
   - [x] color
@@ -35,7 +35,11 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [ ] with messages following the basic AngularJS Git Commit Msg Convention style (per [Git Commit Messages](https://karma-runner.github.io/1.0/dev/git-commit-msg.html))
 - [ ] Ensure you've set the GitHub pages to use your "master branch".
 
-****
+_**EVERYONE**_
+
+- [ ] Ensure you submit both the GitHub repo url (e.g. https://github.com/[username]-tiy/wk-01-alpha) as your "Assignment URL" _and_ the GitHub pages url (e.g. https://[username]-tiy.github.io/wk-01-alpha) in the notes area.
+
+*****************************************************************
 
 _**Skilled Sorcerers**_
 
@@ -46,8 +50,4 @@ _**Wise Wizards**_
 
 - [ ] Use `data-[prefix]` with `attr(data-[prefix])` function  (you'll need to do some research into the [data attribute](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes))
 
-****
-
-_**EVERYONE**_
-
-- [ ] Ensure you submit both the GitHub repo url (e.g. https://github.com/[username]-tiy/wk-01-alpha) as your "Assignment URL" _and_ the GitHub pages url (e.g. https://[username]-tiy.github.io/wk-01-alpha) in the notes area.
+******************************************************************
