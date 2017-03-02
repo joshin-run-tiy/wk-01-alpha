@@ -16,9 +16,12 @@ Ensure that you:
   - [ ] A **navigation bar** broken into two sub-groupings
 
 
-    - [ ] The left grouping in the navigation bar needs:
+    - [x] The left grouping in the navigation bar needs:
       - [x] to be an unordered list of two or more items
-      - [ ] in each list item should have a styled link  (e.g. a link to an internal id, a link to a second page, and a link to an additional resources page)
+      - [x] in each list item should have a styled link  
+      x (e.g. a link to an internal id,
+        x a link to a second page,
+        x and a link to an additional resources page)
       - [x] the list items should be aligned horizontally _and_ without bullets
 
 
