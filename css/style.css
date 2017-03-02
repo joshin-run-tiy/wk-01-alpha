@@ -19,14 +19,6 @@ h3 {
   color: #007EA5;
 }
 
-/*h1 {
-  color: #007EA5;
-  font-size: 3em;
-  margin-top: 3px;
-  margin-bottom: 3px;
-  font-family: arial;
-}*/
-
 header div p {
   color: #007EA5;
   font-size: 2em;
@@ -58,21 +50,9 @@ header div p {
   font-weight: bold;
 }
 
-
 .button-link-activate {
   margin-bottom: 20px;
 }
-
-/*button {
-  background-color: #007EA5;
-  color: #fff;
-  padding: 5px 8px 5px 8px;
-  font-size: 12px;
-  border-radius: 5px;
-  border: 0px;
-  /*opacity: 0.7;*/
-  margin: 20px;
-}*/
 
 nav {
   color: #fff;
@@ -85,49 +65,23 @@ span.dream {
   font-size: 2em;
 }
 
-
-
 a {
   text-decoration: none;
 }
 
-
-
 header {
-  /*border: 1px solid #000;*/
   color: #007EA5;
-  /*background-color: #fff;*/
   padding: 10px;
   font-size: 1.833em;
   border-radius: 8px;
-  /*margin-bottom: 25px;*/
-  /*border-radius: 55px 0px 55px 0px;*/
-
 }
-
-/*W3Schools*/
-/*li {
-    float: left;
-}*/
 
 .nav-menu {
-    /*display: block;*/
     text-align: center;
-    /*padding: 14px 16px;*/
     color: #007EA5;
     text-decoration: none;
     float: left;
 }
-
-/*li a {
-    /*display: block;
-    text-align: center;
-    /*padding: 14px 16px;
-    color: #007EA5;
-    text-decoration: none;
-}*/
-
-
 
 ul {
     list-style-type: none;
@@ -146,24 +100,10 @@ p ul {
   opacity: 0.7;
 }
 
-
-
-
-
-/*li a:hover:not(.active) {
-    background-color: #111;
-}*/
-
-/*.active {
-    background-color: #4CAF50;
-}*/
-/*end*/
-
 .header-frame {
   background-color: #fff;
   margin: 10px;
   border: 1px solid #000;
-  /*border-radius: 35px 0px 35px 0px;*/
 }
 
 .entry {
@@ -196,4 +136,9 @@ a:hover {
 
 a {
   margin: 10px;
+}
+
+footer div {
+  height: 30px;
+  width: 100%;
 }
