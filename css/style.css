@@ -13,9 +13,9 @@ h3 {
 
 h1 {
   color: #007EA5;
-  font-size: 4em;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  font-size: 6em;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .nav-left {
@@ -25,7 +25,7 @@ h1 {
 button {
   background-color: #007EA5;
   color: #fff;
-  margin: 8px 5px 8px 0px;
+  margin: 0px 0px 0px 0px;
   padding: 3px;
 
 }
@@ -53,10 +53,11 @@ header {
   /*border: 1px solid #000;*/
   color: #007EA5;
   /*background-color: #fff;*/
-  padding: 3px;
+  padding: 8px;
   font-size: 1.833em;
   /*margin-bottom: 25px;*/
   /*border-radius: 55px 0px 55px 0px;*/
+
 }
 
 /*W3Schools*/
@@ -71,7 +72,7 @@ li {
 }
 
 li a {
-    display: block;
+    /*display: block;*/
     text-align: center;
     /*padding: 14px 16px;*/
     color: #007EA5;
