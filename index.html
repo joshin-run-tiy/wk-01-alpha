@@ -3,36 +3,47 @@
   <head>
     <meta charset="utf-8">
     <title>Blue Boat</title>
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./css/style.css">
     <style media="screen">
       body {
-        background-image: url(./assets/img/blue-water.png);
-        color: #007EA5;
+        background-image: url(./img/blue-water.png);
+        font-family: font-family: Verdana, Arial, Helvetica, sans-serif;
       }
 
       #blue-boat {
-        background-image: url(./assets/img/white-shore-tide-header.png);
+        background-image: url(./img/white-shore-tide-header.png);
       }
 
       h3 {
-        background-image: url(./assets/img/white-sand-small.png);
+        background-image: url(./img/white-sand-small.png);
         font-size: 1.25rem;
         color: #007EA5;
       }
-
     </style>
   </head>
   <body>
-    <div class="wrapper">
-      <div class="header">
-        <div id="blue-boat" class="header-frame">
+    <header id="blue-boat" class="header-frame">
+      <nav>
+        <ul class="float-left nav-left">
+          <li><a href="#">ABOUT</a></li>
+          <li><a href="#">CONTACT</a></li>
+          <li><a href="#">FAQ</a></li>
+          <li><a href="#dream">Dream</a></li>
+        </ul>
+        <div class="float-right">
+          <a href="#"><button>Sign in</button></a>
+          <a href="#"><button>Search</button></a>
+        </div>
+        <div>
           <h1 style="opacity: 0.7">Blue Boat</h1>
         </div>
-      </div>
-      <div class="entry entry-left">
+      </nav>
+    </header>
+    <main>
+      <div class="entry">
         <div class="frame">
-          <h3 class="h3-left">Morning</h3>
-          <img src="./assets/img/fishing-houses.jpeg" alt="fishing houses">
+          <h3>Morning</h3>
+          <img src="./img/fishing-houses.jpeg" alt="fishing houses">
           <p>The morning greets a wondering soul. The day of all days is here. Alas, off to <a href="https://www.youtube.com/watch?v=XM6VcGCN6UI" target="_blank"><span style="font-weight: bold">seize the morning.</span></a>
             <ul>
               <li>Where to go?</li>
@@ -41,10 +52,10 @@
           </p>
         </div>
       </div>
-      <div class="entry entry-middle">
+      <div class="entry">
         <div class="frame">
-          <h3 class="h3-middle">Tethered</h3>
-          <img src="./assets/img/dock-rope.jpeg" alt="rope on dock"></a>
+          <h3>Tethered</h3>
+          <img src="./img/dock-rope.jpeg" alt="rope on dock"></a>
           <p>The sands are many and the land vast. But, to the dock, as in often times, the wonderer turns the course. And as he walks, his feet tangle in the ropes. Tethered, yet, now free.
             <ul>
               <li>Untie it?</li>
@@ -53,10 +64,10 @@
           </p>
         </div>
       </div>
-      <div class="entry entry-right">
+      <div class="entry">
         <div class="frame">
-          <h3 class="h3-right">Blue Boat</h3>
-          <img src="./assets/img/blue-boat-docked.jpeg" alt="blue boat at dock"></a>
+          <h3>Blue Boat</h3>
+          <img src="./img/blue-boat-docked.jpeg" alt="blue boat at dock"></a>
           <p>The wonderer slips inside the boat, blue as the morning, and listens to the water. There were oars. But they weren't needed. <a href="https://www.youtube.com/watch?v=pguMUFyJ3_U" target="_blank"><span style="font-weight: bold">Only dreams.</span></a> And the boat begins to move.
             <ul>
               <li>Where?</li>
@@ -65,10 +76,10 @@
           </p>
         </div>
       </div>
-      <div class="entry entry-left">
+      <div class="entry ">
         <div class="frame">
-          <h3 class="h3-left">Lone Sailing</h3>
-          <img src="./assets/img/lone-blue-boat.jpg" alt="lone boat in ocean water"></a>
+          <h3>Lone Sailing</h3>
+          <img src="./img/lone-blue-boat.jpg" alt="lone boat in ocean water"></a>
           <p>He sings, "Though as a lone sailor, there's a place for me...<a href="https://www.youtube.com/watch?v=nLx_7wEmwms" target="_blank"><span style="font-weight: bold">out there.</span></a>" By and by the waves smoothly roll and his path is sure.
             <ul>
               <li>And the ocean knows?</li>
@@ -77,10 +88,10 @@
           </p>
         </div>
       </div>
-      <div class="entry entry-middle">
+      <div class="entry">
         <div class="frame">
-          <h3 class="h3-middle">Found</h3>
-          <img src="./assets/img/old-boats-cove.jpg" alt="old boats in cove"></a>
+          <h3>Found</h3>
+          <img src="./img/old-boats-cove.jpg" alt="old boats in cove"></a>
           <p>To the eastern shore, upon the white sands. The journey ends. His rest is found.
             <ul>
               <li>To where has the wonderer gone?</li>
@@ -90,17 +101,18 @@
           </p>
         </div>
       </div>
-      <div class="entry entry-right">
+      <div class="entry">
         <div class="frame">
-          <h3 class="h3-right">Dream</h3>
-          <img src="./assets/img/lone-boat.jpeg" target="_blank" alt="loan boat in ocean"></a>
+          <h3 id="dream">Dream</h3>
+          <img src="./img/lone-boat.jpeg" target="_blank" alt="loan boat in ocean"></a>
           <p>There's always a dream to live. There's always a place to find. There's always that mile to walk and the mountain to climb.
             <ul>
               <li>What's your dream?</li>
-              <li><a href="https://www.google.com/search?site=&tbm=isch&source=hp&biw=1366&bih=643&q=dream+it&btnG=Search+by+image&oq=spark&gs_l=img.3..0l10.54251.54739.0.55708.5.5.0.0.0.0.160.497.2j3.5.0....0.0..1ac.1.20.img.2PrbbMLCFZY&gws_rd=ssl" target="_blank"><span  class="dream" style="font-weight: bold">Dream it.</span></a></li>
+              <li><a href="https://www.google.com/search?site=&tbm=isch&source=hp&biw=1366&bih=643&q=dream+it&btnG=Search+by+image&oq=spark&gs_l=img.3..0l10.54251.54739.0.55708.5.5.0.0.0.0.160.497.2j3.5.0....0.0..1ac.1.20.img.2PrbbMLCFZY&gws_rd=ssl" target="_blank"><span  class="dream" style="font-weight: bold" id="dream">Dream it.</span></a></li>
             </ul>
           </div>
         </div>
       </div>
+    </main>
   </body>
 </html>
