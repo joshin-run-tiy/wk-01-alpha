@@ -8,7 +8,7 @@ ASSIGNMENT CONSTRAINTS (and other notes)
 - You do not need to keep any of the styling from yesterday's assignment.  Keep what you want, change what you want.
 ****
 Ensure that you:
-- [x] Use a **header** element to contain:
+- [x] Use a **header** element to contain:2
   - [x] A **page title** in the appropriate element
   - [x] A **navigation bar** broken into two sub-groupings
     - [x] The left grouping in the navigation bar needs:
