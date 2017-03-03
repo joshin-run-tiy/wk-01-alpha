@@ -28,8 +28,8 @@ Ensure that you:
 
 
 **cards**.
-- [ ] Position your cards so there are 3 cards in a top row and 2 in the bottom row (e.g. 3 columns).  _Do **not** use a table to position your cards!_
-- [ ] Use a footer element to display your personal information (e.g. your name, a link to your github profile, links to any of your social media forms, etc.).  Ensure your personal information is centered in the footer.
+- [x] Position your cards so there are 3 cards in a top row and 2 in the bottom row (e.g. 3 columns).  _Do **not** use a table to position your cards!_
+- [x] Use a footer element to display your personal information (e.g. your name, a link to your github profile, links to any of your social media forms, etc.).  Ensure your personal information is centered in the footer.
 
 
 
@@ -45,11 +45,11 @@ Ensure that you:
 
 _**Skilled Sorcerers && Wise Wizards**_
 
-- [ ] Submit fully completed assignment before midnight tonight.
+- [x] Submit fully completed assignment before midnight tonight.
 
 ****
 
 _**EVERYONE**_
 
-- [ ] Submit what you have by midnight tonight _**and**_ ensure you submit a fully completed version by midnight tomorrow.
-- [ ] Ensure you submit both the GitHub repo url (e.g. https://github.com/[username]-tiy/wk-01-alpha) as your "Assignment URL" _and_ the GitHub pages url (e.g. https://[username]-tiy.github.io/wk-01-alpha) in the notes area.
+- [x] Submit what you have by midnight tonight _**and**_ ensure you submit a fully completed version by midnight tomorrow.
+- [x] Ensure you submit both the GitHub repo url (e.g. https://github.com/[username]-tiy/wk-01-alpha) as your "Assignment URL" _and_ the GitHub pages url (e.g. https://[username]-tiy.github.io/wk-01-alpha) in the notes area.
