@@ -26,7 +26,8 @@ nav {
   background-color: #D4D0CB;
   color: #007EA5;
   font-family: arial;
-  margin: 0px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 .fixed-nav-bar {
@@ -106,19 +107,24 @@ h3 {
 
 /*.text-button {*/
 .button {
-  /*padding: 4px 12px 0px 12px;*/
-  background-color: #fff;
-  /*color: #fff;*/
+  padding: 4px;
   font-size: 12px;
-  border-radius: 5px;
   color: #007EA5;
-  /*border: 1px solid #007EA5;*/
   font-weight: bold;
   font-family: arial;
-  /*margin: 4px 10px 4px 2px;*/
-  background-color: #fff;
+}
+
+#about {
+  margin-left: 20px;
+}
+
+button {
+  border-radius: 10px;
   border: none;
-  /*height: 28px;*/
+  background-color: #fff;
+  margin-top: 5px;
+  margin-left: 7px;
+  box-sizing: border-box;
 }
 
 .text-button-spacing {
@@ -143,7 +149,6 @@ span.dream {
 a {
   text-decoration: none;
 }
-
 
 .nav-menu {
     text-align: center;
@@ -187,6 +192,17 @@ p ul {
   background-color: #fff;
 
 }*/
+
+.logo {
+  float: left;
+  border: 1px;
+  border: solid;
+  border-color: rgba(63, 137, 166, 0.2);
+  height: 40px;
+  width: 40px;
+  margin: 5px 20px 5px 20px;
+  box-sizing: border-box;
+}
 
 .frame {
   background-color: #fff;
