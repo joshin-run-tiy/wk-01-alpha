@@ -185,6 +185,14 @@ a:active {
   color: #fff;
 }
 
+a:visited {
+  color: purple;
+}
+
+a:focus {
+  color: #007ea5;
+}
+
 .cf:before,
 .cf:after {
   content: " ";
@@ -218,7 +226,7 @@ footer {
   float: none;
   width: 100%;
   /*margin: 1%;*/
-  background-color: #D4D0CB;
+  background-color: #D4d0CB;
   color: #007EA5;
   border-width: thin;
   border-style: solid;
